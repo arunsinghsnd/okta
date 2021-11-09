@@ -23,8 +23,6 @@ import ExpandMore from "@mui/icons-material/ExpandMore";
 import StarBorder from "@mui/icons-material/StarBorder";
 import AppsIcon from "@mui/icons-material/Apps";
 import { Link } from "react-router-dom";
-import { MenuItem, Select } from "@mui/material";
-import CardPreview from "./CardPreview";
 import DashboardIcon from "@mui/icons-material/Dashboard";
 
 const drawerWidth = 240;
